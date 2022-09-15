@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Puissance4Board">
+        <attr name="boardColor" format="color"/>
+        <attr name="RColor" format="color"/>
+        <attr name="YColor" format="color"/>
+        <attr name="LigneGagnante" format="color"/>
+    </declare-styleable>
+</resources>

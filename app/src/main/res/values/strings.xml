@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyConnect4</string>
+
+    <string name="Accueil">Puissance 4</string>
+    <string name="BtnJouer">Jouer</string>
+
+    <string name="ConfigurationJoueur">Entrez vos noms</string>
+    <string name="Label1">Joueur 1</string>
+    <string name="Label2">Joueur 2</string>
+    <string name="Envoyer">Commencer</string>
+    <string name="nameHint">Entrez votre nom</string>
+
+    <string name="Rejouer">Rejouer</string>
+    <string name="btnAccueil">Accueil</string>
+</resources>
