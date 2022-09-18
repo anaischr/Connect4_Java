@@ -57,7 +57,7 @@ public class Puissance4Board extends View {
         paint.setColor(boardColor);
         paint.setStrokeWidth(20);
 
-        for (int i=1; i<7; i++){
+        for (int i=1; i<8; i++){
             canvas.drawLine(TailleCellules*i, 0,TailleCellules*i, canvas.getWidth(), paint);
         }
 
